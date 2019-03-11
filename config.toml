@@ -1,0 +1,28 @@
+baseurl = "https://www.influencersweekend.com"
+title = "Influencers Weekend"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=[""]
+
+[params]
+  description1 = '<!--[--><!--]-->'
+  description2 = '<!--[-->Hear from church and community leaders about the importance of having discipline in different areas of your life<!--]-->'
+  logo = "fa-info"
+  copyright = "Hill City Church, RVA"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/hillcityrva/"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/hillcityrva/?hl=en"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
