@@ -9,6 +9,7 @@ disableKinds=[""]
 [params]
   description1 = '<!--[--><!--]-->'
   description2 = '<!--[-->Hear from church and community leaders about the importance of having discipline in different areas of your life<!--]-->'
+  description3 = '<!--[-->Friday, February 22 - Saturday, Februrary 23 2019<!--]-->'
   logo = "fa-info"
   copyright = "Hill City Church, RVA"
 

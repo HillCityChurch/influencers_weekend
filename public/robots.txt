@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.nickwisner.com/sitemap.xml
+Sitemap: https://www.influencersweekend.com/sitemap.xml

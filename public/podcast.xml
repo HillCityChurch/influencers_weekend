@@ -1,0 +1,63 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link>https://www.influencersweekend.com</link>
+<language>en-us</language>
+<copyright>©2019</copyright>
+<webMaster>wisner.nick@gmail.com</webMaster>
+<managingEditor>matt@hillcityrva.com</managingEditor>
+<image>
+<url>
+https://www.influencersweekend.com/images/icon.png.jpg
+</url>
+<title>Influencers Weekend</title>
+<link>https://www.influencersweekend.com</link>
+</image>
+<itunes:owner>
+<itunes:name>Influencers Weekend</itunes:name>
+<itunes:email>matt@hillcityrva.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Religion &amp; Spirituality">
+<itunes:category text="Christianity"/>
+</itunes:category>
+<itunes:keywords>
+Influencers Weekend, Hill City Church
+</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://www.influencersweekend.com/images/icon.png.jpg"/>
+<atom:link href="https://www.influencersweekend.com/podcast.xml" rel="self" type="application/rss+xml"/>
+ <!--  The URL of this file  -->
+<pubDate>Sat, 16 Mar 19 00:00:00 EST</pubDate>
+ <!--
+ http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock 
+-->
+<title>Influencers Weekend</title>
+<itunes:author>Hill City Church</itunes:author>
+<description>
+Hear from church and community leaders about the importance of having discipline in different areas of your life
+</description>
+<itunes:summary>
+Hear from church and community leaders about the importance of having discipline in different areas of your life
+</itunes:summary>
+<itunes:subtitle></itunes:subtitle>
+<lastBuildDate>Sat, 16 Mar 19 00:00:00 EST</lastBuildDate>
+<item>
+<title>Influencers Weekend | John Wagler</title>
+<description>
+Wags talks about influencing people.
+</description>
+<itunes:summary>
+Wags talks about influencing people.
+</itunes:summary>
+<itunes:subtitle></itunes:subtitle>
+<itunesu:category itunesu:code="115101"/>
+<enclosure url="https://www.influencersweekend.com/talks/John_Influencers.mp3" type="audio/mpeg" length="1"/>
+<guid>https://www.influencersweekend.com/talks/John_Influencers.mp3</guid>
+ <!--  GUID URL is identical to Enclosure URL  -->
+<itunes:duration>41:33</itunes:duration>
+<pubDate>Sat, 16 Mar 19 00:00:00 EST</pubDate>
+ <!--
+ http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock 
+-->
+</item>
+</channel>
+</rss>

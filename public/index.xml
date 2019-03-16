@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Influencers Weekend</title>
+    <link>https://www.influencersweekend.com/</link>
+    <description>Recent content on Influencers Weekend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.influencersweekend.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.influencersweekend.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.influencersweekend.com/about/</guid>
+      <description>Join us here at Hill City February 22nd &amp;amp; 23rd for Influencers Weekend! This year&amp;rsquo;s theme is DISCIPLINE. Over the weekend, you&amp;rsquo;ll get to hear from church and community leaders about the importance of having discipline in different areas of your life.
+Childcare will be provided for infant to elementary-aged children. Please be sure to reserve tickets for your children too!
+Friday, February 22nd, 7:00PM-9:00PM
+Saturday, February 23rd, 9:00AM-2:00PM</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://www.influencersweekend.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.influencersweekend.com/talks/</guid>
+      <description>Thanks again to all the incredible speakers that came out to Influencers Weekend to share their stories and insight with us. For those who weren&amp;rsquo;t able to attend, or were able to but want to relive parts of that experience, click the links below to listen to a few of the talks from the conference.
+  Patricia (24:48)   Allen (20:12)   John Wagler (41:33)   Lacy Wagler (21:41)   </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.influencersweekend.com/formspree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.influencersweekend.com/formspree/</guid>
+      <description>        Thank you for your message
+ $(document).ready(function($) { $(function(){ if (window.location.search == &#34;?sent&#34;) { console.log(&#39;triggered&#39;); $(&#39;#contactform&#39;).hide(); $(&#39;#contactformsent&#39;).show(); } else { $(&#39;#contactformsent&#39;).hide(); } }); });  facebook instagram  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,15 +3,11 @@
 
   
   <url>
-    <loc>https://www.influencersweekend.com/#intro</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.influencersweekend.com/#work</loc>
-  </url>
-  
-  <url>
     <loc>https://www.influencersweekend.com/#about</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.influencersweekend.com/#talks</loc>
   </url>
   
   <url>
@@ -22,4 +18,15 @@
     <loc>https://www.influencersweekend.com/#</loc>
     <priority>0</priority>
   </url>
+  
+  <url>
+    <loc>https://www.influencersweekend.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.influencersweekend.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
